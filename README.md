@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python for data analysis, Blender for game assets, and Kali Linux for network security testing. I’m also diving into projects related to space exploration and AI-driven technology.
 - 💞️ I’m looking to collaborate on astronomy-based apps, game development projects, and innovative tech ideas.
 - 📫 How to reach me: vinayakpriyavinesh@gmail.com | vinayakpriyavinesh2008@gmail.com
-- 📸 Instagram: @vinnih_pooh | @vinayakpriyavinesh
+- 📸 Instagram: @official_vinayakpv | @vinayakpriyavinesh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love blending my passion for the cosmos with tech projects, from creating games to experimenting with 3D models and circuit-building projects!
 
